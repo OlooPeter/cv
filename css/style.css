@@ -1,0 +1,28 @@
+body {
+    background-color: #BFACE2;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #E1EEDD;
+    border-width: 5px;
+    width: 20%;
+}
+
+h1,
+h2,
+h3 {
+    color: #B4E4FF;
+}
+
+summary {
+    font-weight: bold;
+    margin: -0.5em -0.5em 0;
+    padding: 0.5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid black;
+    margin-bottom: 0.5em;
+}
